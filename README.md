@@ -6,4 +6,4 @@ The repository contains two Databricks notebooks made for Databricks Community E
 
 One notebooks contains excercises to be completed by students, while the other contains the solutions. Notebooks are in Italian and can run on Spark 1.6.0+ clusters.
 
-Students should create their account on Databricks Community Edition (https://databricks.com/try-databricks) and import the notebook published at https://raw.githubusercontent.com/user/scala-spark-workshop/master/src/main/databricks/EsercitazioneScalaSparkNoSoluzioni.dbc
+Students should create their account on Databricks Community Edition (https://databricks.com/try-databricks) and import the notebook published at https://raw.githubusercontent.com/tenaris/scala-spark-workshop/master/src/main/databricks/EsercitazioneScalaSparkNoSoluzioni.dbc
