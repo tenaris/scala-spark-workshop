@@ -1,5 +1,5 @@
 # Scala Spark Workshop
-This repository collects the Databricks notebooks used in the Scala Spark workshop held at University of Bergamo
+This repository collects the Databricks notebooks used in the Scala Spark workshop held at universities
 by Tenaris Data Science Department.
 
 The repository contains two Databricks notebooks made for Databricks Community Edition. The aim is to teach Spark fundamentals to future Software Engineers.
