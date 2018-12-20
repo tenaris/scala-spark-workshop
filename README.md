@@ -11,7 +11,7 @@ Notebooks are in Italian and can run on Spark 2.0+ clusters. The previous editio
 ## Getting Started
 *Workshop Scala Spark Edition*: Students should create their account on [Databricks Community Edition](https://databricks.com/try-databricks) and import the notebook published at https://raw.githubusercontent.com/tenaris/scala-spark-workshop/master/src/main/databricks/EsercitazioneScalaSparkNoSoluzioni.dbc
 
-*Workshop PySpark Edition*: Students should create their account on [Databricks Community Edition](https://databricks.com/try-databricks) and import the notebook published at https://raw.githubusercontent.com/tenaris/scala-spark-workshop/master/src/main/databricks/WorkshopPySpark_English_NoSolution_.dbc
+*Workshop PySpark Edition*: Students should create their account on [Databricks Community Edition](https://databricks.com/try-databricks) and import the notebook published at https://github.com/tenaris/scala-spark-workshop/raw/master/src/main/databricks/WorkshopPySpark_English_NoSolution_Cleaned.dbc
 
 ## Dataset References
 * The Iris Plants Database by R.A. Fisher and made available by Lichman, M. (2013). [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml). Irvine, CA: University of California, School of Information and Computer Science. 
